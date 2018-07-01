@@ -50,9 +50,13 @@ You loose the game when Your Total Score goes above the Target Score.
 ##Tools / Languages used:
 -------------------------------
 HTML
+
 CSS
+
 BootStrap
+
 Javascript
+
 GoogleFonts
 
 
