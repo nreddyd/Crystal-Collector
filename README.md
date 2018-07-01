@@ -9,17 +9,17 @@ Use the below link to play the game : https://nreddyd.github.io/Crystal-Collecto
 
 ##Instructions :
 --------------
-You will be given a random Target Score at the start of the game.
+- You will be given a random Target Score at the start of the game.
 
-By clicking the crystal you will add a specific amount of points to Your Total Score.
+- By clicking the crystal you will add a specific amount of points to Your Total Score.
 
-The value of the crystals will be hidden from you until you click on it.
+- The value of the crystals will be hidden from you until you click on it.
 
-The value of the crystals change each time the game starts.
+- The value of the crystals change each time the game starts.
 
-You win the game when Your Total Score matches the Target Score.
+- You win the game when Your Total Score matches the Target Score.
 
-You loose the game when Your Total Score goes above the Target Score.
+- You loose the game when Your Total Score goes above the Target Score.
 
 ##File Structure :
 -------------------
