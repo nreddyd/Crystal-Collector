@@ -1,0 +1,44 @@
+body {
+  background-image: url(../images/CrystalCollectorBG.gif);
+  text-align: center;
+}
+
+.text {
+  font-family: "Cabin Sketch", cursive;
+  font-size: 30px;
+  color: yellow;
+}
+
+.container {
+  position: relative;
+  top: 50px;
+}
+
+.space {
+  margin: 0;
+  padding: 0;
+  height: 30px;
+}
+
+#reset {
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: salmon;
+  color: gold;
+  font-family: "Cabin Sketch", cursive;
+  font-size: 30px;
+}
+h1 {
+  font-family: "Faster One", cursive;
+  font-size: 70px;
+  color: gold;
+}
+#crystal1,
+#crystal2,
+#crystal3,
+#crystal4 {
+  height: 170px;
+  width: 170px;
+  padding: 20px;
+}
