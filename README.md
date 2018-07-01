@@ -46,3 +46,13 @@ You loose the game when Your Total Score goes above the Target Score.
 |  |  └── wins.mp3
 └── index.html
 └── README.md
+```
+##Tools / Languages used:
+-------------------------------
+HTML
+CSS
+BootStrap
+Javascript
+GoogleFonts
+
+
