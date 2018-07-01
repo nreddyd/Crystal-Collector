@@ -42,3 +42,8 @@ h1 {
   width: 170px;
   padding: 20px;
 }
+p {
+  color: paleturquoise;
+  font-family: "Oregano", cursive;
+  font-size: 26px;
+}
